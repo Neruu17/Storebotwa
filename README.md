@@ -1,2 +1,0 @@
-# Storebotwa
-Bot wa
